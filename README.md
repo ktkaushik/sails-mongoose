@@ -1,3 +1,3 @@
-== Mongoose Adapter for Sails.js
+## Mongoose Adapter for Sails.js
 
 coming soon
