@@ -19,7 +19,7 @@ module.exports.adapters = {
   'default': 'mongoose',
 
   // sails v.0.9.0
-  mongo: {
+  mongoose: {
     module   : 'sails-mongoose',
     host     : 'localhost',
     user     : 'username',
