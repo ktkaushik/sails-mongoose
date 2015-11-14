@@ -2,7 +2,7 @@
 
 Waterline adapter for Mongoose.
 
-** Not maintained anymore  **
+**Not maintained anymore**
 
 [Update via tweet](https://twitter.com/ktkaushik/status/380592073482588160)
 
