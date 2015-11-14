@@ -2,6 +2,10 @@
 
 Waterline adapter for Mongoose.
 
+** Not maintained anymore  **
+
+[Update via tweet](https://twitter.com/ktkaushik/status/380592073482588160)
+
 ## Installation
 
 Install from NPM.
@@ -54,15 +58,9 @@ As of now, only the basic __CRUD__ operations are supported.
 
 http://sailsjs.org
 
-## Waterline
-
-[Waterline](https://github.com/balderdashy/waterline) is a brand new kind of storage and retrieval engine.
-
-It provides a uniform API for accessing stuff from different kinds of databases, protocols, and 3rd party APIs. That means you write the same code to get users, whether they live in MySQL, LDAP, MongoDB, or Facebook.
-
 ### The MIT License (MIT)
 
-Copyright © 2012-2013 Mike McNeil
+Copyright © 2013-2015 Kaushik Thirthappa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
