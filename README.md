@@ -4,6 +4,8 @@ Waterline adapter for Mongoose.
 
 **Not maintained anymore**
 
+![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
+
 [Update via tweet](https://twitter.com/ktkaushik/status/380592073482588160)
 
 ## Installation
